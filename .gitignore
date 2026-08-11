@@ -1,0 +1,10 @@
+# Visual Studio
+*.vcxproj.user
+*.vcxproj.filters
+*.sln.docstates
+
+# Папки сборки
+x64/
+Debug/
+Release/
+build/ 
